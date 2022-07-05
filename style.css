@@ -3,7 +3,7 @@ h3
     font-size: 25px !important;
 }
 
-.btn-success:hover
+.btn-info:hover
 {
     background-color: red;
 }
